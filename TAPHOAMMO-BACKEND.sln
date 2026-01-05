@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36301.6
+VisualStudioVersion = 17.14.36811.4 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TAPHOAMMO-BACKEND", "..\New folder\TAPHOAMMO-BACKEND\TAPHOAMMO-BACKEND.csproj", "{4D71A3FA-D982-483B-B129-BDC9F3A154BA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TAPHOAMMO-BACKEND", "TAPHOAMMO-BACKEND\TAPHOAMMO-BACKEND.csproj", "{81293A0C-5585-5131-90D4-AFD557E45033}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4D71A3FA-D982-483B-B129-BDC9F3A154BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4D71A3FA-D982-483B-B129-BDC9F3A154BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4D71A3FA-D982-483B-B129-BDC9F3A154BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4D71A3FA-D982-483B-B129-BDC9F3A154BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81293A0C-5585-5131-90D4-AFD557E45033}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81293A0C-5585-5131-90D4-AFD557E45033}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81293A0C-5585-5131-90D4-AFD557E45033}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81293A0C-5585-5131-90D4-AFD557E45033}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {7868F145-4ECB-497A-ACE4-EFE410C3D8C8}
+		SolutionGuid = {DB931C22-C7EE-4494-9208-41F955C61C22}
 	EndGlobalSection
 EndGlobal
