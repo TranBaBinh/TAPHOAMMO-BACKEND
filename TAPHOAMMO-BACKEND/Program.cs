@@ -55,9 +55,18 @@ builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowAll", policy =>
     {
-        policy.AllowAnyOrigin()
-              .AllowAnyMethod()
-              .AllowAnyHeader();
+        policy.WithOrigins(
+
+                 "http://localhost:4200",
+                 "https://localhost:4200",
+                 "http://localhost:5173",
+                 "https://taphoammo-eight.vercel.app",
+                 "https://dev.bachhoammo.com.vn",
+                 "https://api.bachhoammo.com.vn"
+               )
+               .AllowAnyMethod()
+               .AllowAnyHeader()
+               .AllowCredentials();
     });
 });
 
